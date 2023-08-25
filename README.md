@@ -1,16 +1,29 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4a5af&height=120&section=header"/>
 
-<!--
-**eloahmesquita/eloahmesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d2b09c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo++Eloah+Mesquita;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Estou na jornada de transição de carreira e atualmente estou focado em expandir meus horizontes no mundo do desenvolvimento web.
+Acredito que a combinação entre criatividade e código pode gerar experiências incríveis, e é por isso que escolhi a área de front-end. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Atualmente estudando: Desenvolvimento Web
+
+🌟 Bolsista do Programa Potência Tech
+
+🎯 Foco: Front-End Development
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eloah-mesquita/)
+
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/eloahmesquita/)
+
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/pt)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
+
+## Habilidades em desenvolvimento
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
